@@ -1,0 +1,9 @@
+.DS_S*
+__pycache__/
+*_utils.py
+_WK*.ipynb
+*.pyc
+*.py.*
+*.pyc.*
+data/
+!WK14_utils.py
